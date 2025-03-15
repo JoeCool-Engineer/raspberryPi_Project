@@ -1,0 +1,142 @@
+[
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/libgpio",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/rbuller/rpi4b_gpio-example/libgpio/include -g -std=gnu++11 -o CMakeFiles/libgpio.dir/src/libgpio/Device.cpp.o -c /home/rbuller/rpi4b_gpio-example/libgpio/src/libgpio/Device.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/libgpio/src/libgpio/Device.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/libgpio",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/rbuller/rpi4b_gpio-example/libgpio/include -g -std=gnu++11 -o CMakeFiles/libgpio.dir/src/libgpio/DigitalOutput.cpp.o -c /home/rbuller/rpi4b_gpio-example/libgpio/src/libgpio/DigitalOutput.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/libgpio/src/libgpio/DigitalOutput.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/libgpio",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/rbuller/rpi4b_gpio-example/libgpio/include -g -std=gnu++11 -o CMakeFiles/libgpio.dir/src/libgpio/I2C.cpp.o -c /home/rbuller/rpi4b_gpio-example/libgpio/src/libgpio/I2C.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/libgpio/src/libgpio/I2C.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/libgpio",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/rbuller/rpi4b_gpio-example/libgpio/include -g -std=gnu++11 -o CMakeFiles/libgpio.dir/src/libgpio/MotorDirection.cpp.o -c /home/rbuller/rpi4b_gpio-example/libgpio/src/libgpio/MotorDirection.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/libgpio/src/libgpio/MotorDirection.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/libgpio",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/rbuller/rpi4b_gpio-example/libgpio/include -g -std=gnu++11 -o CMakeFiles/libgpio.dir/src/libgpio/MotorDriver.cpp.o -c /home/rbuller/rpi4b_gpio-example/libgpio/src/libgpio/MotorDriver.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/libgpio/src/libgpio/MotorDriver.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/libgpio",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/rbuller/rpi4b_gpio-example/libgpio/include -g -std=gnu++11 -o CMakeFiles/libgpio.dir/src/libgpio/PullDirection.cpp.o -c /home/rbuller/rpi4b_gpio-example/libgpio/src/libgpio/PullDirection.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/libgpio/src/libgpio/PullDirection.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/libgpio",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/rbuller/rpi4b_gpio-example/libgpio/include -g -std=gnu++11 -o CMakeFiles/libgpio.dir/src/libgpio/Switch.cpp.o -c /home/rbuller/rpi4b_gpio-example/libgpio/src/libgpio/Switch.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/libgpio/src/libgpio/Switch.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/flash-led",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/rbuller/rpi4b_gpio-example/libgpio/include -g -std=gnu++11 -o CMakeFiles/flash-led4.dir/flash-led4.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/flash-led/flash-led4.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/flash-led/flash-led4.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/flash-led",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++11 -o CMakeFiles/flash-led3.dir/flash-led3.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/flash-led/flash-led3.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/flash-led/flash-led3.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/flash-led",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++11 -o CMakeFiles/flash-led2.dir/flash-led2.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/flash-led/flash-led2.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/flash-led/flash-led2.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/flash-led",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++11 -o CMakeFiles/flash-led1.dir/flash-led1.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/flash-led/flash-led1.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/flash-led/flash-led1.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/flash-led",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++11 -o CMakeFiles/flash-led.dir/flash-led.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/flash-led/flash-led.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/flash-led/flash-led.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/use-signalhandler",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++11 -o CMakeFiles/use-signalhandler3.dir/use-signalhandler3.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/use-signalhandler/use-signalhandler3.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/use-signalhandler/use-signalhandler3.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/use-signalhandler",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++11 -o CMakeFiles/use-signalhandler2.dir/use-signalhandler2.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/use-signalhandler/use-signalhandler2.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/use-signalhandler/use-signalhandler2.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/use-signalhandler",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++11 -o CMakeFiles/use-signalhandler1.dir/use-signalhandler1.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/use-signalhandler/use-signalhandler1.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/use-signalhandler/use-signalhandler1.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/read-switch",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/rbuller/rpi4b_gpio-example/libgpio/include -g -std=gnu++11 -o CMakeFiles/read-switch3.dir/read-switch3.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/read-switch/read-switch3.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/read-switch/read-switch3.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/read-switch",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/rbuller/rpi4b_gpio-example/libgpio/include -g -std=gnu++11 -o CMakeFiles/read-switch2.dir/read-switch2.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/read-switch/read-switch2.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/read-switch/read-switch2.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/read-switch",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/rbuller/rpi4b_gpio-example/libgpio/include -g -std=gnu++11 -o CMakeFiles/read-switch1.dir/read-switch1.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/read-switch/read-switch1.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/read-switch/read-switch1.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/read-switch",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++11 -o CMakeFiles/read-switch.dir/read-switch.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/read-switch/read-switch.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/read-switch/read-switch.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/motor-controller",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/rbuller/rpi4b_gpio-example/libgpio/include -g -std=gnu++11 -o CMakeFiles/motor-controller4.dir/motor-controller4.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/motor-controller/motor-controller4.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/motor-controller/motor-controller4.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/motor-controller",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/rbuller/rpi4b_gpio-example/libgpio/include -g -std=gnu++11 -o CMakeFiles/motor-controller3.dir/motor-controller3.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/motor-controller/motor-controller3.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/motor-controller/motor-controller3.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/motor-controller",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/rbuller/rpi4b_gpio-example/libgpio/include -g -std=gnu++11 -o CMakeFiles/motor-controller2.dir/motor-controller2.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/motor-controller/motor-controller2.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/motor-controller/motor-controller2.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/motor-controller",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++11 -o CMakeFiles/motor-controller.dir/motor-controller.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/motor-controller/motor-controller.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/motor-controller/motor-controller.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/i2c-accelerometer",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++11 -o CMakeFiles/i2c-accelerometer3.dir/i2c-accelerometer3.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/i2c-accelerometer/i2c-accelerometer3.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/i2c-accelerometer/i2c-accelerometer3.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/i2c-accelerometer",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/rbuller/rpi4b_gpio-example/libgpio/include -g -std=gnu++11 -o CMakeFiles/i2c-accelerometer4.dir/i2c-accelerometer4.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/i2c-accelerometer/i2c-accelerometer4.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/i2c-accelerometer/i2c-accelerometer4.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/i2c-accelerometer",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++11 -o CMakeFiles/i2c-accelerometer2.dir/i2c-accelerometer2.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/i2c-accelerometer/i2c-accelerometer2.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/i2c-accelerometer/i2c-accelerometer2.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/i2c-accelerometer",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/rbuller/rpi4b_gpio-example/libgpio/include -g -std=gnu++11 -o CMakeFiles/i2c-accelerometer5.dir/i2c-accelerometer5.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/i2c-accelerometer/i2c-accelerometer5.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/i2c-accelerometer/i2c-accelerometer5.cpp"
+},
+{
+  "directory": "/home/rbuller/rpi4b_gpio-example/pigpio/build/src/i2c-accelerometer",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++11 -o CMakeFiles/i2c-accelerometer.dir/i2c-accelerometer.cpp.o -c /home/rbuller/rpi4b_gpio-example/pigpio/src/i2c-accelerometer/i2c-accelerometer.cpp",
+  "file": "/home/rbuller/rpi4b_gpio-example/pigpio/src/i2c-accelerometer/i2c-accelerometer.cpp"
+}
+]

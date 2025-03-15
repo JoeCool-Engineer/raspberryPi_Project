@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-g++ -g CMakeFiles/read-switch1.dir/read-switch1.cpp.o -o read-switch1  ../../libgpio/liblibgpio.a -lpigpio -lfmt 

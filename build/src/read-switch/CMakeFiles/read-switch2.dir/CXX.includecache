@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rbuller/rpi4b_gpio-example/libgpio/include/libgpio/Device.hpp
+pigpio.h
+-
+
+/home/rbuller/rpi4b_gpio-example/libgpio/include/libgpio/PullDirection.hpp
+pigpio.h
+-
+string
+-
+
+/home/rbuller/rpi4b_gpio-example/libgpio/include/libgpio/Switch.hpp
+libgpio/Device.hpp
+-
+libgpio/PullDirection.hpp
+-
+
+/home/rbuller/rpi4b_gpio-example/pigpio/src/read-switch/read-switch2.cpp
+libgpio/Switch.hpp
+-
+iostream
+-
+fmt/core.h
+-
+chrono
+-
+thread
+-
+signal.h
+-
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rbuller/rpi4b_gpio-example/pigpio/src/use-signalhandler/use-signalhandler3.cpp
+pigpio.h
+-
+iostream
+-
+fmt/core.h
+-
+chrono
+-
+thread
+-
+signal.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-g++ -g CMakeFiles/motor-controller2.dir/motor-controller2.cpp.o -o motor-controller2  ../../libgpio/liblibgpio.a -lpigpio -lfmt 

@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-g++ -g CMakeFiles/i2c-accelerometer5.dir/i2c-accelerometer5.cpp.o -o i2c-accelerometer5  ../../libgpio/liblibgpio.a -lpigpio -lfmt 

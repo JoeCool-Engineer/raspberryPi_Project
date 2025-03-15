@@ -1,0 +1,352 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "libgpio",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "/home/rbuller/rpi4b_gpio-example/libgpio",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "src/flash-led",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/flash-led",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "src/use-signalhandler",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/use-signalhandler",
+					"targetIndexes" : 
+					[
+						19,
+						20,
+						21
+					]
+				},
+				{
+					"build" : "src/read-switch",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/read-switch",
+					"targetIndexes" : 
+					[
+						15,
+						16,
+						17,
+						18
+					]
+				},
+				{
+					"build" : "src/motor-controller",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/motor-controller",
+					"targetIndexes" : 
+					[
+						11,
+						12,
+						13,
+						14
+					]
+				},
+				{
+					"build" : "src/i2c-accelerometer",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/i2c-accelerometer",
+					"targetIndexes" : 
+					[
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"name" : "gpio-example",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "libgpio",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "flash-led::@5d06c6cdbb5f82ff9f9b",
+					"jsonFile" : "target-flash-led-Debug-155c30378173812d307c.json",
+					"name" : "flash-led",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "flash-led1::@5d06c6cdbb5f82ff9f9b",
+					"jsonFile" : "target-flash-led1-Debug-77b2554430223fb10c42.json",
+					"name" : "flash-led1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "flash-led2::@5d06c6cdbb5f82ff9f9b",
+					"jsonFile" : "target-flash-led2-Debug-9bd6498b6adc65d059fb.json",
+					"name" : "flash-led2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "flash-led3::@5d06c6cdbb5f82ff9f9b",
+					"jsonFile" : "target-flash-led3-Debug-878b6ae938c2306bc38c.json",
+					"name" : "flash-led3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "flash-led4::@5d06c6cdbb5f82ff9f9b",
+					"jsonFile" : "target-flash-led4-Debug-6140c82ba81645a45899.json",
+					"name" : "flash-led4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "i2c-accelerometer::@93439e34cef47cadc8ed",
+					"jsonFile" : "target-i2c-accelerometer-Debug-b8613c966843bd6767ef.json",
+					"name" : "i2c-accelerometer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "i2c-accelerometer2::@93439e34cef47cadc8ed",
+					"jsonFile" : "target-i2c-accelerometer2-Debug-ee0309f0276df5615fae.json",
+					"name" : "i2c-accelerometer2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "i2c-accelerometer3::@93439e34cef47cadc8ed",
+					"jsonFile" : "target-i2c-accelerometer3-Debug-eee0dbe60ca56f391349.json",
+					"name" : "i2c-accelerometer3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "i2c-accelerometer4::@93439e34cef47cadc8ed",
+					"jsonFile" : "target-i2c-accelerometer4-Debug-6f17679cf9448d645453.json",
+					"name" : "i2c-accelerometer4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "i2c-accelerometer5::@93439e34cef47cadc8ed",
+					"jsonFile" : "target-i2c-accelerometer5-Debug-01fe359129f1b5b917a6.json",
+					"name" : "i2c-accelerometer5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "libgpio::@22beead59c9f950c1933",
+					"jsonFile" : "target-libgpio-Debug-6af09d109dfbaf10b98c.json",
+					"name" : "libgpio",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "motor-controller::@17aad0b77844a1e77a23",
+					"jsonFile" : "target-motor-controller-Debug-224e95554e7104ba42f3.json",
+					"name" : "motor-controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "motor-controller2::@17aad0b77844a1e77a23",
+					"jsonFile" : "target-motor-controller2-Debug-7e82f68cc0d036fe0020.json",
+					"name" : "motor-controller2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "motor-controller3::@17aad0b77844a1e77a23",
+					"jsonFile" : "target-motor-controller3-Debug-a4170d8babc0a373010c.json",
+					"name" : "motor-controller3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "motor-controller4::@17aad0b77844a1e77a23",
+					"jsonFile" : "target-motor-controller4-Debug-afddf14269b1179c9c7b.json",
+					"name" : "motor-controller4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "read-switch::@37cb31b5da4464134628",
+					"jsonFile" : "target-read-switch-Debug-4df7d36c969281f4171c.json",
+					"name" : "read-switch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "read-switch1::@37cb31b5da4464134628",
+					"jsonFile" : "target-read-switch1-Debug-4f3dfa32e362023ba063.json",
+					"name" : "read-switch1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "read-switch2::@37cb31b5da4464134628",
+					"jsonFile" : "target-read-switch2-Debug-3d2ac8cf344c9e2ec0d5.json",
+					"name" : "read-switch2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "read-switch3::@37cb31b5da4464134628",
+					"jsonFile" : "target-read-switch3-Debug-241e09a69785939a86fb.json",
+					"name" : "read-switch3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "use-signalhandler1::@b876b655ae02beb9115f",
+					"jsonFile" : "target-use-signalhandler1-Debug-061ef4134c0bbec7c108.json",
+					"name" : "use-signalhandler1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "use-signalhandler2::@b876b655ae02beb9115f",
+					"jsonFile" : "target-use-signalhandler2-Debug-1b7b063dc83de431ed19.json",
+					"name" : "use-signalhandler2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "use-signalhandler3::@b876b655ae02beb9115f",
+					"jsonFile" : "target-use-signalhandler3-Debug-931c683248ca9f368998.json",
+					"name" : "use-signalhandler3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rbuller/rpi4b_gpio-example/pigpio/build",
+		"source" : "/home/rbuller/rpi4b_gpio-example/pigpio"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

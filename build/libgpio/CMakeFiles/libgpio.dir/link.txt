@@ -1,0 +1,2 @@
+/usr/bin/arm-linux-gnueabihf-ar qc liblibgpio.a CMakeFiles/libgpio.dir/src/libgpio/Device.cpp.o CMakeFiles/libgpio.dir/src/libgpio/DigitalOutput.cpp.o CMakeFiles/libgpio.dir/src/libgpio/I2C.cpp.o CMakeFiles/libgpio.dir/src/libgpio/MotorDirection.cpp.o CMakeFiles/libgpio.dir/src/libgpio/MotorDriver.cpp.o CMakeFiles/libgpio.dir/src/libgpio/PullDirection.cpp.o CMakeFiles/libgpio.dir/src/libgpio/Switch.cpp.o
+/usr/bin/arm-linux-gnueabihf-ranlib liblibgpio.a

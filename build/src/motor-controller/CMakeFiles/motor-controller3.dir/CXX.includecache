@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rbuller/rpi4b_gpio-example/libgpio/include/libgpio/Device.hpp
+pigpio.h
+-
+
+/home/rbuller/rpi4b_gpio-example/libgpio/include/libgpio/DigitalOutput.hpp
+libgpio/Device.hpp
+-
+
+/home/rbuller/rpi4b_gpio-example/libgpio/include/libgpio/MotorDirection.hpp
+pigpio.h
+-
+string
+-
+
+/home/rbuller/rpi4b_gpio-example/libgpio/include/libgpio/MotorDriver.hpp
+libgpio/Device.hpp
+-
+libgpio/DigitalOutput.hpp
+-
+libgpio/MotorDirection.hpp
+-
+
+/home/rbuller/rpi4b_gpio-example/pigpio/src/motor-controller/motor-controller3.cpp
+libgpio/MotorDriver.hpp
+-
+iostream
+-
+fmt/core.h
+-
+chrono
+-
+thread
+-
+signal.h
+-
+
